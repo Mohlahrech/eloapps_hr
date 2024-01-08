@@ -1,0 +1,17 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+eloapps_hr_dz.access_forme_juridique,access_forme_juridique,eloapps_hr_dz.model_forme_juridique,hr.group_hr_manager,1,1,1,0
+
+eloapps_hr_dz.access_hr_payement_mode,access_hr_payement_mode,eloapps_hr_dz.model_hr_payement_mode,hr.group_hr_user,1,1,1,1
+
+eloapps_hr_dz.access_hr_reason_end_contract,access_hr_reason_end_contract,eloapps_hr_dz.model_hr_reason_end_contract,hr.group_hr_user,1,1,1,1
+
+eloapps_hr_dz.access_hr_dispositif,access_hr_dispositif,eloapps_hr_dz.model_hr_dispositif,hr.group_hr_user,1,1,1,1
+
+eloapps_hr_dz.access_hr_contract_anem,access_hr_contract_anem,eloapps_hr_dz.model_hr_contract_anem,hr.group_hr_user,1,1,1,1
+
+eloapps_hr_dz.access_hr_contract_type_anem,access_hr_contract_type_anem,eloapps_hr_dz.model_hr_contract_type_anem,hr.group_hr_user,1,1,1,1
+
+eloapps_hr_dz.access_pay_iep,access_pay_iep,eloapps_hr_dz.model_pay_iep,hr.group_hr_manager,1,1,1,1
+
+eloapps_hr_dz.access_hr_contract_report,access_hr_contract_report,eloapps_hr_dz.model_hr_contract_report,base.group_user,1,1,1,1
